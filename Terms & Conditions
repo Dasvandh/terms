@@ -1,120 +1,189 @@
-# Terms & Conditions
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Terms & Conditions – Dasvandh</title>
 
-**Last Updated: January 14, 2026**
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #f6f7f9;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+        Roboto, Helvetica, Arial, sans-serif;
+      color: #1f2937;
+    }
 
-## 1. About This Application
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 32px 24px;
+      background: #ffffff;
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+    }
 
-This application is a district-level community engagement and awareness platform initiated by the Jalandhar district administration team. It is designed to facilitate public communication, share achievements, provide official-style updates, and promote public welfare information.
+    h1 {
+      margin-top: 0;
+      font-size: 28px;
+      color: #16a34a;
+    }
 
-**Important Notice:** This is a district-led community initiative and NOT an official Government of India or Punjab Government application. It is an independent digital initiative for transparency and public outreach.
+    h2 {
+      margin-top: 32px;
+      font-size: 20px;
+      color: #111827;
+    }
 
-## 2. Acceptance of Terms
+    p {
+      font-size: 15px;
+      line-height: 1.7;
+      color: #4b5563;
+    }
 
-By accessing or using this application, you agree to be bound by these Terms & Conditions. If you do not agree to these terms, please do not use the application.
+    ul {
+      padding-left: 20px;
+      color: #4b5563;
+    }
 
-## 3. User Roles and Access
+    li {
+      margin-bottom: 8px;
+      line-height: 1.6;
+    }
 
-The application provides different levels of access:
+    .meta {
+      font-size: 13px;
+      color: #6b7280;
+      margin-bottom: 24px;
+    }
 
-- **Public Users:** Can view updates, achievements, and public welfare information
-- **Contributors:** Can submit content for review (subject to approval)
-- **District Coordinators (DC):** Have enhanced content management capabilities
-- **Admin:** Full administrative access to manage content and users
+    .note {
+      background: #f0fdf4;
+      border-left: 4px solid #16a34a;
+      padding: 12px 16px;
+      margin: 24px 0;
+      font-size: 14px;
+      color: #065f46;
+      border-radius: 6px;
+    }
 
-Each role has specific permissions, and users must not attempt to access features beyond their authorized role.
+    .footer {
+      margin-top: 40px;
+      font-size: 13px;
+      color: #6b7280;
+    }
 
-## 4. User Responsibilities
+    a {
+      color: #16a34a;
+      text-decoration: none;
+      font-weight: 500;
+    }
 
-You agree to:
+    a:hover {
+      text-decoration: underline;
+    }
 
-- Provide accurate and truthful information during registration
-- Maintain the confidentiality of your account credentials
-- Not share your account with others
-- Use the application only for lawful purposes
-- Not post false, misleading, or defamatory content
-- Respect the rights and privacy of other users
-- Not attempt to hack, disrupt, or compromise the application's security
+    @media (max-width: 600px) {
+      .container {
+        margin: 16px;
+        padding: 24px 16px;
+      }
+    }
+  </style>
+</head>
 
-## 5. Content Guidelines
+<body>
+  <div class="container">
+    <h1>Terms & Conditions</h1>
+    <div class="meta">Last Updated: January 14, 2026</div>
 
-Users who have content submission privileges must ensure that:
+    <p>
+      These Terms & Conditions govern your access to and use of the
+      Jalandhar District Community Initiative Application.
+    </p>
 
-- Content is accurate, relevant, and appropriate for public viewing
-- Content does not violate any laws, regulations, or third-party rights
-- Content does not contain offensive, harmful, or inappropriate material
-- Content does not misrepresent the application as an official government platform
+    <div class="note">
+      <strong>Important Notice:</strong> This is <strong>not</strong> an official
+      Government of India or Punjab Government application. It is an independent
+      district-level community initiative.
+    </div>
 
-The administration reserves the right to review, modify, or remove any content that violates these guidelines.
+    <h2>1. Acceptance of Terms</h2>
+    <p>
+      By accessing or using this application, you agree to be bound by these
+      Terms & Conditions. If you do not agree, please discontinue use.
+    </p>
 
-## 6. Intellectual Property
+    <h2>2. User Roles and Access</h2>
+    <ul>
+      <li>Public Users – View public updates and information</li>
+      <li>Contributors – Submit content for review</li>
+      <li>District Coordinators (DC) – Manage approved content</li>
+      <li>Admins – Full administrative access</li>
+    </ul>
 
-- All content, logos, and materials provided by the district administration team remain their property
-- User-generated content remains the property of the respective users, but users grant the application a license to display and distribute such content
-- Users must not copy, reproduce, or distribute application content without permission
+    <h2>3. User Responsibilities</h2>
+    <ul>
+      <li>Provide accurate registration information</li>
+      <li>Keep your login credentials secure</li>
+      <li>Use the application lawfully and responsibly</li>
+      <li>Respect other users and their privacy</li>
+      <li>Do not attempt to misuse or compromise the system</li>
+    </ul>
 
-## 7. Disclaimer of Warranties
+    <h2>4. Content Guidelines</h2>
+    <p>
+      Users with content privileges must ensure submissions are accurate,
+      lawful, respectful, and do not misrepresent the platform as an
+      official government service.
+    </p>
 
-This application is provided "as is" without any warranties, express or implied. We do not guarantee:
+    <h2>5. Intellectual Property</h2>
+    <p>
+      All platform content belongs to the initiative team unless otherwise
+      stated. User-generated content remains owned by users, but may be displayed
+      within the application.
+    </p>
 
-- Uninterrupted or error-free operation
-- Accuracy or completeness of information
-- Fitness for a particular purpose
-- That the application will meet all your requirements
+    <h2>6. Disclaimer</h2>
+    <p>
+      The application is provided “as is” without warranties of any kind,
+      including reliability, accuracy, or availability.
+    </p>
 
-## 8. Limitation of Liability
+    <h2>7. Limitation of Liability</h2>
+    <p>
+      To the fullest extent permitted by law, the application operators shall not
+      be liable for any damages arising from use of this application.
+    </p>
 
-To the maximum extent permitted by law, the district administration team and application operators shall not be liable for:
+    <h2>8. Future Features</h2>
+    <p>
+      Optional voluntary contribution features may be introduced in the future,
+      with clear notice and compliance with applicable laws.
+    </p>
 
-- Any direct, indirect, incidental, or consequential damages
-- Loss of data, profits, or business opportunities
-- Damages arising from use or inability to use the application
-- Actions taken based on information provided in the application
+    <h2>9. Account Termination</h2>
+    <p>
+      Accounts may be suspended or terminated if these terms are violated.
+    </p>
 
-## 9. Future Features
+    <h2>10. Governing Law</h2>
+    <p>
+      These terms are governed by the laws of India and subject to the exclusive
+      jurisdiction of courts in Jalandhar, Punjab.
+    </p>
 
-A voluntary contribution feature may be introduced in future updates to support district-led initiatives. Any such feature will:
+    <h2>11. Contact</h2>
+    <p>
+      <strong>Email:</strong> sevapani08@gmail.com
+    </p>
 
-- Be completely voluntary
-- Have clear terms and conditions
-- Comply with all applicable laws and regulations
-- Be announced with sufficient notice to users
-
-## 10. Privacy and Data Protection
-
-Your use of this application is also governed by our Privacy Policy. Please review it to understand how we collect, use, and protect your information.
-
-## 11. Modifications to Terms
-
-We reserve the right to modify these Terms & Conditions at any time. Changes will be effective immediately upon posting. Continued use of the application after changes constitutes acceptance of the modified terms.
-
-## 12. Account Termination
-
-We reserve the right to:
-
-- Suspend or terminate accounts that violate these terms
-- Remove content that violates our guidelines
-- Refuse service to anyone for any reason at any time
-
-## 13. Governing Law
-
-These Terms & Conditions shall be governed by and construed in accordance with the laws of India. Any disputes arising from these terms shall be subject to the exclusive jurisdiction of courts in Jalandhar, Punjab.
-
-## 14. Contact Information
-
-For questions, concerns, or feedback regarding these Terms & Conditions, please contact:
-
-**Jalandhar District Initiative Team**  
-Email: [your-contact-email@example.com]  
-Address: [Your Office Address, Jalandhar, Punjab]
-
-## 15. Severability
-
-If any provision of these Terms & Conditions is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
-
-## 16. Entire Agreement
-
-These Terms & Conditions, together with the Privacy Policy, constitute the entire agreement between you and the application operators regarding your use of the application.
-
----
-
-**By using this application, you acknowledge that you have read, understood, and agree to be bound by these Terms & Conditions.**
+    <div class="footer">
+      By using this application, you acknowledge that you have read and agree to
+      these Terms & Conditions.
+    </div>
+  </div>
+</body>
+</html>
